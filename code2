@@ -14927,6 +14927,15 @@ campaignTrail_temp.answer_feedback_json = [
         "answer_feedback": "A few days later, you sign the HEART Act to great applause from Republicans and Democrats alike. Sitting behind the Resolute Desk, fielding questions, you can’t ignore the smug triumph radiating from Newt Gingrich behind you, reveling in stealing your thunder. That bastard shouldn’t even be allowed near the White House."
     }
 },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 12636,
+        "fields": {
+            "answer": 85018.5,
+            "candidate": 77,
+            "answer_feedback": "As a stampede of press aims their cameras at you as you officially sign the American Health Care Reform Act of 1993, or simply Kennedycare. Universal Healthcare, finally achieved. The weight of the occasion turns silent as reporters exit the room. Ted was clearly living up to his monacure as his voice booms across the hallway. You can finally relax now.\n"
+        }
+    },
 {
     "model": "campaign_trail.answer_feedback",
     "pk": 12698,
